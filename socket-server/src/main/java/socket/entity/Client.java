@@ -8,6 +8,7 @@ import org.yeauty.pojo.Session;
  * @Version 1.0
  */
 public class Client {
+
     private String phone;
 
     private Session session;
@@ -27,4 +28,5 @@ public class Client {
     public void setSession(Session session) {
         this.session = session;
     }
+
 }
