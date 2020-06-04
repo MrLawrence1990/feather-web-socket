@@ -1,0 +1,3 @@
+socket\enums\MessageType.class
+socket\model\ChatUser.class
+socket\model\WebMessage.class
